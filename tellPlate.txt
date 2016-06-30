@@ -1,0 +1,2 @@
+recognizeChar是主要函数，运行时保持文件夹的结构。
+运行方式:recognizeChar(imfile), imfile:图像的路径

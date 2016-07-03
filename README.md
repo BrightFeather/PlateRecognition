@@ -1,8 +1,8 @@
 # PlateRecognition
 
-### Matlab code for chinese automobile plate recognition 
+- Matlab code for chinese automobile plate recognition 
 
-#### Weijia Chen (BrightFeather)
+- by Weijia Chen (BrightFeather)
 
 ### Preparation
 	

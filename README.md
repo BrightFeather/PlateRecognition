@@ -28,6 +28,10 @@ tellPlate('testset/京A82806.jpg')
 tellPlate('testset/easytest/1.jpg')
 ```
 
+### Accuracy on testset
+
+*testacc.m* and *testeach.m* are test files for accuracy rate. Recognition for each plate and accuracy for 50 plates are written into file  *result.txt*.
+
 Questions and bugs, please email me at chensir1994@gmail.com
 
 

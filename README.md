@@ -11,7 +11,7 @@
 
 2. Open matlab and set the downloaded repository as current
 	
-3. Type and run `set up` in matlab command line（This sets up the vlfeat environment for character recognition. Runs well under MacOS and Linux, might have trouble with Windows. Troubleshooting: http://www.vlfeat.org/install-matlab.html）
+3. Type and run `setup` in matlab command line（This sets up the vlfeat environment for character recognition. Runs well under MacOS and Linux, might have trouble with Windows. Troubleshooting: http://www.vlfeat.org/install-matlab.html）
 
 ### Plate Recognition
 

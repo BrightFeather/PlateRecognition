@@ -2,7 +2,7 @@
 
 - Matlab code for chinese automobile plate recognition 
 
-- author: Weijia Chen (BrightFeather)
+- author: Weijia Chen, Xiaomeng Chen, Junyi Li, Chuan Cen 
 
 ### Preparation
 	
